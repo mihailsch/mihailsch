@@ -5,21 +5,21 @@
 With 3+ years of experience as a Technical Director, I've built a strong foundation in data-driven decision-making and business process optimization. I am now focusing on mastering modern data analytics to transform business questions into actionable insights, metrics, and hypotheses.
 
 #### 🟢 **Currently seeking:** 
-A **Product / Data Analyst** position where I can apply my analytical mindset, business acumen, and technical skills to drive product growth.
+*   A **Product / Data Analyst** position where I can apply my analytical mindset, business acumen, and technical skills to drive product growth.
 
 #### 🛠️ **Tech Stack & Skills**
 
 **Main Tools**
 
-`Python` `Jupyter Notebook` `SQL` `Airflow` `Git`
+*   `Python` `Jupyter Notebook` `SQL` `Airflow` `Git`
 
-`pandas` `NumPy` `SciPy` `statsmodels`
+*   `pandas` `NumPy` `SciPy` `statsmodels`
 
-`Matplotlib` `Seaborn`
+*   `Matplotlib` `Seaborn`
 
-`ClickHouse` `PySpark`
+*   `ClickHouse` `PySpark`
 
-`Yandex DataLens`
+*   `Yandex DataLens`
 
 
 **Product & Business Analytics**
