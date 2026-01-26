@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mikhail Shcherbakov
+### Hi there 👋 I'm Mihail Scherbakov
 
 **Transitioning from Technical Leadership to Product Analytics**
 
