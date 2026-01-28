@@ -29,7 +29,7 @@ With 3+ years of experience as a Technical Director, I've built a strong foundat
 
 **Core Competencies**
 *   Full-cycle analytics: from data extraction to insight presentation.
-*   Problem decomposition and hypothesis-driven development.
+*   Problem decomposition and data-driven development.
 
 #### 📈 **My Background Before Analytics**
 *   **Sibenergotech LLC (2019–2025):** Progressed to **Technical Director (2022–2025)**. Transformed a service department into a profitable unit, increasing revenue by 25% through process analysis and data-driven optimization. This path provided me with deep **business acumen** and hands-on experience in **implementing data-based solutions**.
