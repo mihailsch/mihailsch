@@ -11,13 +11,15 @@ With 3+ years of experience as a Technical Director, I've built a strong foundat
 
 **Main Tools**
 
-*   `Python` `Jupyter Notebook` `SQL` `Airflow` `Git`
+*   `Python` `Jupyter Notebook` `SQL` `Git`
 
 *   `pandas` `NumPy` `SciPy` `statsmodels`
 
 *   `Matplotlib` `Seaborn`
 
 *   `ClickHouse` `PySpark`
+
+*   `Airflow`
 
 *   `Yandex DataLens`
 
