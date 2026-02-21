@@ -15,4 +15,4 @@
 
 **Core Competencies**
 *   Full-cycle analytics: from data extraction to insight presentation.
-*   Problem decomposition and data-driven development.
+*   Problem decomposition and data-driven development. 
