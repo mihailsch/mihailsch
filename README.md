@@ -1,10 +1,10 @@
-### Hi there, i'm Mihail Scherbakov, Product / Data Analyst 📊
+### Hi there, i'm Mihail Scherbakov, Product analyst 📊
 
 
 **Tech Stack & Skills** 🛠️
 
-*   **Core:** `Python` (pandas, matplotlib, statsmodels), `SQL` (window functions), `Jupyter Notebook`.
-*   **Also have experience with:** `ClickHouse`, `PySpark`, `Airflow`, `Git`, `Yandex DataLens`.
+*   **Core:** `Python` (pandas, matplotlib, statsmodels), `SQL` (window functions), `Jupyter Notebook`, `ClickHouse`, `Yandex DataLens`
+*   **Also have experience with:** `PySpark`, `Airflow`, `Git`
 
 
 **Product & Business Analytics** 📈
